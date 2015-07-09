@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("CyborierSharedCodeLibrary")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Cyborier Sistemas India Pvt. Ltd.")]
+[assembly: AssemblyCompany("Cyborier Systems India Pvt. Ltd.")]
 [assembly: AssemblyProduct("CyborierSharedCodeLibrary")]
-[assembly: AssemblyCopyright("Copyright © Cyborier Sistemas India 2012")]
+[assembly: AssemblyCopyright("Copyright © Cyborier Systems India 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

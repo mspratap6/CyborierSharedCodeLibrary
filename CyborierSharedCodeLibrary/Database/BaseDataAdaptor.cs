@@ -2,7 +2,7 @@
  * **************************************************************************
  * Developer : Pratap Singh, Manish (mpratap@Cyboriercompany.com)              *
  * Date : 23/10/2012                                                        *
- * Copyright  © 2012 Cyborier Sistemas, India Pvt Ltd. - All Rights Reserved   *
+ * Copyright  © 2012 Cyborier Systems Pvt Ltd. - All Rights Reserved   *
  * Unauthorized copying of this file, via any medium is strictly prohibited *
  * Proprietary and confidential.                                             *
  * **************************************************************************
